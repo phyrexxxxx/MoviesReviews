@@ -1,0 +1,26 @@
+.review-form {
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.review-form .form-label {
+    color: #495057;
+    font-weight: bold;
+}
+
+.review-form .form-control {
+    border-color: #ced4da;
+}
+
+.review-form .submit-btn {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+}
+
+.review-form .submit-btn:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
