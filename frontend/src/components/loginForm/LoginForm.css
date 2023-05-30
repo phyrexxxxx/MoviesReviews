@@ -1,0 +1,26 @@
+.login-form {
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.login-form .form-label {
+    color: #495057;
+    font-weight: bold;
+}
+
+.login-form .form-control {
+    border-color: #ced4da;
+}
+
+.login-form .login-btn {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+}
+
+.login-form .login-btn:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
